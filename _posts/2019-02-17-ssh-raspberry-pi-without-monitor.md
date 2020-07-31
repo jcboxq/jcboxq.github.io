@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Login A Raspberry Pi For The First Time Without Monitor"
+title:  "Login a Raspberry Pi for the First Time Without Monitor"
 date:   2019-02-17 15:56:30 +0800
 categories: raspberryPi
 ---
