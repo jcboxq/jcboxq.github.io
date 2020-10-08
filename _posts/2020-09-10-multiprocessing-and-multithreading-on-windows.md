@@ -2,7 +2,7 @@
 layout: post
 title:  "Multiprocessing and Multithreading on Windows"
 date:   2020-09-10 21:26:30 +0800
-categories: debug
+categories: multiprocessing multithreading
 ---
 # 问题描述
 Debug过程中遇到**pickle.PicklingError: Can't pickle**
