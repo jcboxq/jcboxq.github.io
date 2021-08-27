@@ -19,4 +19,4 @@ You can find the source code for Jekyll at GitHub:
 
 Nothing. Just go back.
 
-[![Go back](../images/wrongWayGoBack.jpg)](https://jcboxq.github.io/)
+[![Go back](./images/wrongWayGoBack.jpg)](https://jcboxq.github.io/)
