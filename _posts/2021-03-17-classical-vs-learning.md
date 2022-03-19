@@ -1,8 +1,6 @@
 ---
-layout: post
-title:  "论文阅读随笔|传统vs学习"
-date:   2021-03-17 22:16:30 +0800
-categories: ML
+title:  论文阅读随笔|传统vs学习
+tags: ML
 ---
 
 # 问题描述

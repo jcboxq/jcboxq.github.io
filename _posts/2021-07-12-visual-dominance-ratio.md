@@ -1,8 +1,6 @@
 ---
-layout: post
-title:  "拯救社恐"
-date:   2021-07-12 22:07:30 +0800
-categories: Life
+title:  拯救社恐
+tags: Life
 ---
 
 # 问题描述
