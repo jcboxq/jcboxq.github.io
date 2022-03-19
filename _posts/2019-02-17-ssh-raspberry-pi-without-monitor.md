@@ -1,8 +1,6 @@
 ---
-layout: post
-title:  "Login a Raspberry Pi for the First Time Without Monitor"
-date:   2019-02-17 15:56:30 +0800
-categories: raspberryPi
+title:  Login a Raspberry Pi for the First Time Without Monitor
+tags: 树莓派
 ---
 # 问题描述
 从老师那里~~白嫖~~借用到一个树莓派却没钱买显示器，该怎么把玩它呢？
