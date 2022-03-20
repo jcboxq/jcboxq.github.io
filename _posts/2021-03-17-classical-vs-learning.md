@@ -1,9 +1,7 @@
 ---
-title:  论文阅读随笔|传统vs学习
-tags: ML
+title:  传统方法vs基于学习的方法
+tags: 科研 ideas
 ---
 
-# 问题描述
-思考传统方法与机器学习方法之间的关系，以及科研的本质方向。
-# 手绘图
-![note](/images/paper_note_1.jpg)
+思考传统方法与机器学习方法之间的关系，以及科研的方向。
+![classical_vs_learning](/assets/images/classical_vs_learning.jpg)

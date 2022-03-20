@@ -1,7 +1,8 @@
 ---
 title:  Google Style Guides
-tags: 编程风格
+tags: 编程规范
 ---
+
 > Every major open-source project has its own style guide: a set of conventions (sometimes arbitrary) about how to write code for that project. It is much easier to understand a large codebase when all the code in it is in a consistent style. “Style” covers a lot of ground, from “use camelCase for variable names” to “never use global variables” to “never use exceptions.” 
 
 * Google style guide official Github page: [google/styleguide](https://github.com/google/styleguide)
