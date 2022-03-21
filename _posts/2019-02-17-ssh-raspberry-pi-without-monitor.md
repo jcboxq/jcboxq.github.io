@@ -5,6 +5,7 @@ tags: 树莓派
 
 ## 问题描述
 从老师那里~~白嫖~~借用到一个树莓派却没钱买显示器，该怎么把玩它呢？
+<!--more-->
 ## 方法步骤
 1. 在[官网](https://www.raspberrypi.org/downloads/)下载喜欢的系统镜像文件；
 2. 用镜像烧录软件（如balenaEtcher）将系统镜像烧录进 sd 卡；
