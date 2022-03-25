@@ -24,4 +24,4 @@ Python 中 lambda 和 for 一起使用时的坑
         for i, sensor in enumerate(sensor_list):
             sensor.listen(lambda data, i=i: sensor_callback(data, sensor_queue, sensor_name_list[i]))
 ```
-坑点分析：要通过冒号前的 i=i 传入绑定随 for 变化的变量 i ，否则所有 lambda 表达式创建的函数都绑定的是变量 i 最后的值。
+坑点分析：要通过冒号前的 i=i 传入绑定随 for 变化的变量 i ，否则所有 lambda 表达式创建的函数都绑定的是变量 i 最后的值
