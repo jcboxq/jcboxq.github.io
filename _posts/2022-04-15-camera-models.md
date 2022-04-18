@@ -10,6 +10,7 @@ mathjax: true
 
 ## 常见相机分类
 1. Pinhole Camera(针孔相机、平面相机)
+
 2. Omnidirectional Camera(Panoramic Camera, Spherical Camera, 全向相机)
 
     根据实现方式分为：
