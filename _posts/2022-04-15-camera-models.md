@@ -21,7 +21,8 @@ mathjax: true
 ## 常用相机模型
 由**投影模型**和**畸变模型**两部分构成
 ### 投影模型
-1. **Pinhole Camera Model**: [fu fv pu pv skew=0]，只适用于针孔相机;
+1. **Pinhole Camera Model**: [fu fv pu pv skew=0]，只适用于针孔相机；
+
 2. **Kannala-Brandt Camera Model**: [fu fv pu pv k1 k2 k3 k4]，为解决鱼眼相机建模而提出[1]，但适用于所有类型相机；
 
     ![fisheye1](/assets/images/fisheye1.png){:height="50%" width="50%"}![fisheye2](/assets/images/fisheye2.png){:height="50%" width="50%"}
