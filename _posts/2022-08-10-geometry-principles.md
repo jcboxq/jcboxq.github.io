@@ -18,11 +18,11 @@ mathjax: true
 ### 平面几何(2D->2D)
 2D 图像常见的变换如下图所示：
 
-![2D Geometry](/assets/images/2d_geometry.png){:height="50%" width="50%"}
+![2D Geometry](/assets/images/2d_geometry.png)
 
 这些几何变换的数学性质如下表所示：
 
-![2D Geometry Properties](/assets/images/2d_geometry_properties.png){:height="50%" width="50%"}
+![2D Geometry Properties](/assets/images/2d_geometry_properties.png)
 
 ### 对极几何(2D<-3D->2D)
 * **Essential Matrix（本质矩阵）**
